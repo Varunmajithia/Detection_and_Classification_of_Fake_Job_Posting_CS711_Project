@@ -1,7 +1,5 @@
 # Detection_and_Classification_of_Fake_Job_Posting_CS711_Project
 
-# Detection_and_Classification_of_Fake_Job_Posting_CS711_Project
-
 #Detection and Classification of Fake Job Postings
 
 This project aims to tackle the growing threat of fake job advertisements by building an end-to-end machine learning pipeline that can detect fraudulent job postings based on textual and categorical data. The solution integrates traditional NLP techniques, multiple machine learning models, and a *Streamlit web app* for real-time testing.
